@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: This is the personal homepage of Alejandra Castillo
+description: What you will find here are links to projects
+plugins:
+- jemoji
